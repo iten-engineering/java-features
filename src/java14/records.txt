@@ -1,0 +1,5 @@
+Java records:
+- https://jax.de/blog/datenklassen-in-java-einfuehrung-in-java-records/
+- https://dzone.com/articles/a-first-look-at-records-in-java-14
+- https://aboullaite.me/java-14-records/
+- https://blogs.oracle.com/javamagazine/records-come-to-java#anchor_4
